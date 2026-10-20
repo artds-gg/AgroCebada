@@ -1,0 +1,22 @@
+# Entorno local y cachés
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Reportes y fuentes de LaTeX excluidos de GitHub
+*.pdf
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Archivos temporales de editores y sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+

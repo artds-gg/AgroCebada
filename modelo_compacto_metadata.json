@@ -1,0 +1,13 @@
+{
+  "modelo": "gradient_boosting",
+  "top_k": 5,
+  "features": [
+    "prec_prec_2025_05",
+    "prec_prec_2025_02",
+    "prec_prec_2025_04",
+    "tmin_std",
+    "nubosidad_max"
+  ],
+  "unidad_objetivo": "t/ha",
+  "uso": "simulacion_manual; no sustituye la prediccion oficial de las 59 parcelas"
+}
